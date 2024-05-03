@@ -1,0 +1,2 @@
+
+-- CREATE TABLE Post (title TEXT, description TEXT, tag TEXT,imageUrl TEXT);
